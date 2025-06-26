@@ -73,7 +73,7 @@ body{
 #main{
     margin-top:119;
     background:url('images/map-blur.png');
-    background-repeat:repeat-y;
+    /*background-repeat:repeat-X;*/
     width:100%;
 }
 
